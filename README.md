@@ -27,9 +27,18 @@
   npm install dotenv
   ```
   ## Videos
-    MySQL Code Walkthrough: https://www.dropbox.com/s/cp1aplewan7vlvq/Back%20end%20video%20.mov?dl=0
-    API Insomnia Overview: https://www.dropbox.com/s/g8506jvr8oqoypj/Insomnia%20Overview.mov?dl=0
-    Insomnia Walkthrough: https://www.dropbox.com/s/foja9h0255w48c1/Insomnia%20Walkthough.mov?dl=0
+
+MySQL Code Walkthrough: 
+
+    https://www.dropbox.com/s/cp1aplewan7vlvq/Back%20end%20video%20.mov?dl=0
+    
+API Insomnia Overview: 
+
+    https://www.dropbox.com/s/g8506jvr8oqoypj/Insomnia%20Overview.mov?dl=0
+   
+Insomnia Walkthrough: 
+
+    https://www.dropbox.com/s/foja9h0255w48c1/Insomnia%20Walkthough.mov?dl=0
 
   ## Usage 
   
